@@ -60,7 +60,7 @@ public class ControllerApp {
             } else {
                 valueOutOfRangeO2.setText(" ");
             }
-            if (valueInputFlow < 10 || valueInputFlow > 70) {
+            if (valueInputFlow < 10 || valueInputFlow > 60) {
                 valueOutOfRangeFlow.setText("The value is out of range!");
                 return;
             } else {
