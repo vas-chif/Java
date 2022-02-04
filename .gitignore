@@ -1,0 +1,22 @@
+
+
+#Ignored the .idea folder and its content.
+.idea/
+
+
+#Ignored all  the folders that have the name "out", "epam, "kidsPrgraming".
+out/
+epam/
+kidsPrgraming/
+
+
+
+#Ignore all the files whit the estension ".iml".
+*.iml
+
+#Ignored the probe folder and its content.
+ src.packagesAndImport.arraysModelClass.probe/
+
+#Ignore all the files whit the estension ".class".
+*.class
+ 
